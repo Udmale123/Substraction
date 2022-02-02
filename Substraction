@@ -1,0 +1,8 @@
+const x = 5;
+const y = 3;
+
+
+const sub =  x - y;
+
+
+console.log('The substraction of ' + x + ' and ' + y + ' is: ' + substraction);
